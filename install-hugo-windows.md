@@ -87,3 +87,6 @@ WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "taxonomyTerm": You
 
 Total in 39 ms
 </pre>
+
+
+NOTE: Without theme, Hugo will create xml output only.

@@ -52,13 +52,14 @@ mhatr@LAPTOP c:\hugo\PrashantMhatre
 
 ----------------------------------------------------
 ## Content of my-homepage.md (c:\hugo\PrashantMhatre\content\posts\my-homepage.md 
+<pre>
 | ---
 | title: "My Homepage"
 | date: 2019-11-21T20:58:18-05:00
 | draft: true
 | ---
 ----------------------------------------------------
-
+</pre>
 
 
 

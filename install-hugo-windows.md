@@ -62,4 +62,28 @@ mhatr@LAPTOP c:\hugo\PrashantMhatre
 </pre>
 
 
+----------------------------------------------------
+# Generate Static SIte
 
+mhatr@LAPTOP c:\hugo\PrashantMhatre
+# hugo -D
+<pre>
+Building sites … WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "page": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "section": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "home": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+WARN 2019/11/21 21:05:22 found no layout file for "HTML" for "taxonomyTerm": You should create a template file which matches Hugo Layouts Lookup Rules for this combination.
+
+                   | EN
++------------------+----+
+  Pages            |  4
+  Paginator pages  |  0
+  Non-page files   |  0
+  Static files     |  0
+  Processed images |  0
+  Aliases          |  0
+  Sitemaps         |  1
+  Cleaned          |  0
+
+Total in 39 ms
+</pre>

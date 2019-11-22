@@ -35,3 +35,30 @@ Just a few more steps and you're ready to go:
 
 Visit https://gohugo.io/ for quickstart guide and full documentation.
 
+----------------------------------------------------
+
+mhatr@LAPTOP c:\hugo
+# cd PrashantMhatre
+
+mhatr@LAPTOP c:\hugo\PrashantMhatre
+# hugo new posts/my-homepage.md
+c:\hugo\PrashantMhatre\content\posts\my-homepage.md created
+
+# cd PrashantMhatre
+
+mhatr@LAPTOP c:\hugo\PrashantMhatre
+# hugo new posts/my-homepage.md
+ (c:\hugo\PrashantMhatre\content\posts\my-homepage.md created
+
+----------------------------------------------------
+## Content of my-homepage.md (c:\hugo\PrashantMhatre\content\posts\my-homepage.md 
+---
+title: "My Homepage"
+date: 2019-11-21T20:58:18-05:00
+draft: true
+---
+----------------------------------------------------
+
+
+
+

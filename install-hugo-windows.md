@@ -1,3 +1,8 @@
+I saw a few beautiful websites created with Hugo. Seems very easy to start with. I will explore customization options soon.
+
+----------------------------------------------------
+
+
 # Run as admin on Windows
 >> choco install hugo -confirm
 
